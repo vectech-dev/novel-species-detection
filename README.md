@@ -1,5 +1,6 @@
 # novel-species-detection
-"Mosquito species identification using convolutional neural networks with a multitiered ensemble model for novel species detection" (published in preprint server Research Square as "Convolutional neural networks that identify mosquito species and know when they don't know"), _in draft_
+"Mosquito species identification using convolutional neural networks with a multitiered ensemble model for novel species detection" Scientific Reports, 2021. https://doi.org/10.1038/s41598-021-92891-9 .
+Published initially in preprint server Research Square as "Convolutional neural networks that identify mosquito species and know when they don't know".
 Algorithm structure can be viewed in the paper.
 
 # Requirements and Installation
