@@ -1,0 +1,43 @@
+{
+  "SEED": 42,
+  "KERAS_EPOCHS": 100,
+  "KERAS_BATCH_SIZE": 32,
+  "SUPPORTED_TIER1_ALGS": [
+    "xception"
+  ],
+  "VALID_FOLDS": [
+    1,2,3,4,5
+  ],
+  "VALID_SPLITS": [
+    "train",
+    "valid",
+    "test",
+    "exttest",
+    "testcomb",
+    "all"
+  ],
+  "SUPPORTED_TIER2_ALGS": [
+    "svm",
+    "rfor",
+    "wnn"
+  ],
+  "UNKNOWN_LABELS": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "T2_TEST_SPLITS": [
+    "T",
+    "T1",
+    "A",
+    "B",
+    "T2",
+    "C",
+    "D"
+  ],
+  "KERAS_MODEL": [
+    "wnn"
+  ]
+}

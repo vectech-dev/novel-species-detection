@@ -1,0 +1,71 @@
+,,,,,Identification,,Origin,,,
+,Species,Data group,total,,DNA,Human,Wild Caught,Lab Colony,Wild eggs lab grown,Unknown
+0,Aedes aegypti,K,199,,76,123,72,127,0,0
+1,Aedes albopictus,K,148,,148,0,148,0,0,0
+6,Aedes dorsalis,K,55,,22,33,55,0,0,0
+11,Aedes japonicus *,K,250,,25,225,32,0,111,107
+16,Aedes sollicitans,K,91,,36,55,91,0,0,0
+19,Aedes taeniorhynchus,K,35,,27,8,35,0,0,0
+23,Aedes vexans,K,83,,58,25,83,0,0,0
+25,Anopheles coustani,K,25,,10,15,25,0,0,0
+26,Anopheles crucians s.l.,K,56,,34,22,56,0,0,0
+27,Anopheles freeborni,K,119,,0,119,119,0,0,0
+28,Anopheles funestus s.l.,K,227,,180,47,227,0,0,0
+29,Anopheles gambiae s.l.,K,216,,214,2,216,0,0,0
+34,Anopheles punctipennis,K,44,,38,6,44,0,0,0
+35,Anopheles quadrimaculatus,K,37,,37,0,37,0,0,0
+44,Culex erraticus,K,71,,70,1,71,0,0,0
+46,Culex pipiens s.l.,K,325,,73,252,325,0,0,0
+48,Culex salinarius,K,32,,32,0,32,0,0,0
+59,Psorophora columbiae,K,89,,70,19,89,0,0,0
+60,Psorophora cyanescens,K,78,,0,78,78,0,0,0
+62,Psorophora ferox,K,44,,40,4,44,0,0,0
+2,Aedes atlanticus,U1,16,,16,0,16,0,0,0
+3,Aedes canadensis,U1,34,,1,33,34,0,0,0
+8,Aedes flavescens,U1,16,,0,16,16,0,0,0
+14,Aedes nigromaculis,U1,7,,0,7,7,0,0,0
+20,Aedes tortilis,U1,4,,4,0,4,0,0,0
+21,Aedes triseriatus s.l.,U1,18,,17,1,18,0,0,0
+30,Anopheles maculipalpis,U1,6,,4,2,6,0,0,0
+33,Anopheles pseudopunctipennis,U1,10,,0,10,10,0,0,0
+39,Anopheles ziemanni,U1,7,,0,7,7,0,0,0
+40,Coquillettidia perturbans,U1,52,,20,32,52,0,0,0
+43,Culex coronator,U1,12,,12,0,12,0,0,0
+45,Culex nigripalpus,U1,16,,7,9,16,0,0,0
+47,Culex restuans,U1,18,,18,0,18,0,0,0
+51,Culiseta incidens,U1,10,,0,10,10,0,0,0
+52,Culiseta inornata,U1,10,,0,10,10,0,0,0
+54,Deinocerites cancer,U1,8,,8,0,8,0,0,0
+55,Deinocerites cuba-1 **,U1,15,,15,0,15,0,0,0
+56,Mansonia titillans,U1,19,,12,7,19,0,0,0
+58,Psorophora ciliata,U1,29,,19,10,29,0,0,0
+64,Psorophora pygmaea,U1,30,,29,1,30,0,0,0
+65,Psorophora signipennis,U1,5,,0,5,5,0,0,0
+4,Aedes cantator,U2/N,2,,0,2,2,0,0,0
+5,Aedes condolescens,U2/N,2,,2,0,2,0,0,0
+7,Aedes fairfax-1 **,U2/N,1,,1,0,1,0,0,0
+9,Aedes hendersoni,U2/N,4,,4,0,4,0,0,0
+10,Aedes infirmatus,U2/N,21,,17,4,21,0,0,0
+12,Aedes mediovittatus,U2/N,26,,1,25,3,23,0,0
+13,Aedes melanimon,U2/N,5,,3,2,5,0,0,0
+15,Aedes sierrensis,U2/N,2,,0,2,2,0,0,0
+17,Aedes spilotus,U2/N,1,,0,1,1,0,0,0
+18,Aedes sticticus,U2/N,1,,1,0,1,0,0,0
+22,Aedes trivittatus,U2/N,29,,13,16,29,0,0,0
+24,Anopheles cf-coustani **,U2/N,2,,2,0,2,0,0,0
+31,Anopheles pharoensis,U2/N,1,,1,0,1,0,0,0
+32,Anopheles pretoriensis,U2/N,2,,0,2,2,0,0,0
+36,Anopheles rufipes,U2/N,2,,0,2,2,0,0,0
+37,Anopheles squamosus,U2/N,3,,3,0,3,0,0,0
+38,Anopheles tenebrosus,U2/N,1,,0,1,1,0,0,0
+41,Culex antillummagnorum,U2/N,8,,0,8,8,0,0,0
+42,Culex bahamensis,U2/N,1,,1,0,1,0,0,0
+49,Culex tarsalis,U2/N,3,,0,3,3,0,0,0
+50,Culex territans,U2/N,2,,2,0,2,0,0,0
+53,Culiseta melanura,U2/N,1,,1,0,1,0,0,0
+57,Orthopodomyia signifera,U2/N,3,,3,0,3,0,0,0
+61,Psorophora discolor,U2/N,2,,0,2,2,0,0,0
+63,Psorophora howardii,U2/N,3,,3,0,3,0,0,0
+66,Uranotaenia sapphirina,U2/N,2,,2,0,2,0,0,0
+,* Unknown origin due to a data entry error.,,,,,,,,,
+,"** These species did not have a match in GenBank, and were given temporary names based on their close genetic relatives or the geography they were captured in until further study can be done to define the species.",,,,,,,,,
