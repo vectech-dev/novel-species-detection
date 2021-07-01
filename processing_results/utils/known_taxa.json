@@ -1,0 +1,404 @@
+{
+    "__genus__": {
+        "aedes": {
+            "__misspelling__": [],
+            "__species__": {
+                "aegypti": {
+                    "__misspelling__": []
+                },
+                "albopictus": {
+                    "__misspelling__": []
+                },
+                "atlanticus": {
+                    "__misspelling__": ["atlanticus/tormentor"]
+                },
+                "canadensis": {
+                    "__misspelling__": []
+                },
+                "cantator": {
+                    "__misspelling__": []
+                },
+                "cinereus": {
+                    "__misspelling__": []
+                },
+                "condolescens": {
+                    "__misspelling__": []
+                },
+                "dorsalis": {
+                    "__misspelling__": []
+                },
+                "fairfax-1": {
+                    "__misspelling__": []
+                },
+                "flavescens": {
+                    "__misspelling__": []
+                },
+                "fulvus": {
+                    "__misspelling__": []
+                },
+                "hendersoni": {
+                    "__misspelling__": []
+                },
+                "infirmatus": {
+                    "__misspelling__": []
+                },
+                "japonicus": {
+                    "__misspelling__": []
+                },
+                "mediovittatus": {
+                    "__misspelling__": []
+                },
+                "melanimon": {
+                    "__misspelling__": []
+                },
+                "nigromaculis": {
+                    "__misspelling__": []
+                },
+                "sierrensis": {
+                    "__misspelling__": []
+                },
+                "sollicitans": {
+                    "__misspelling__": []
+                },
+                "spilotus": {
+                    "__misspelling__": []
+                },
+                "sticticus": {
+                    "__misspelling__": []
+                },
+                "taeniorhynchus": {
+                    "__misspelling__": []
+                },
+                "tortilis": {
+                    "__misspelling__": []
+                },
+                "triseriatus_sl": {
+                    "__misspelling__": ["triseriatus sl", "triseriatus_complex", "triseriatus complex", "triseriatus"],
+                    "__species_group__": "triseriatus_sl"
+                },
+                "triseriatus_a": {
+                    "__misspelling__": [],
+                    "__species_group__": "triseriatus_sl"
+                },
+                "trivittatus": {
+                    "__misspelling__": ["trivitattus"]
+                },
+                "vexans": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "anopheles": {
+            "__misspelling__": ["anopheles(a)", "an."],
+            "__species__": {
+                "bradleyi": {
+                    "__misspelling__": []
+                },
+                "barbirostris_sl": {
+                    "__misspelling__": ["barbirostris"],
+                    "__species_group__": ["barbirostris_sl"]
+                },
+                "coustani": {
+                    "__misspelling__": []
+                },
+                "cf-coustani_1": {
+                    "__misspelling__": []
+                },
+                "cf-coustani_2": {
+                    "__misspelling__": []
+                },
+                "crucians_sl": {
+                    "__misspelling__": ["crucians", "crucian", "crucian_complex(cr._c.)", "crucians_complex(cr._c.)", "crucians_c.)", "crucians_complex(cr.","crucians_complex"],
+                    "__species_group__": "crucians_sl"
+                },
+                "crucians_a": {
+                    "__misspelling__": [],
+                    "__species_group__": "crucians_sl"
+                },
+                "crucians_b": {
+                    "__misspelling__": [],
+                    "__species_group__": "crucians_sl"
+                },
+                "crucians_c": {
+                    "__misspelling__": [],
+                    "__species_group__": "crucians_sl"
+                },
+                "crucians_d": {
+                    "__misspelling__": [],
+                    "__species_group__": "crucians_sl"
+                },
+                "crucians_e": {
+                    "__misspelling__": ["crucians_complex_e"],
+                    "__species_group__": "crucians_sl"
+                },
+                "culicifacis_sl":{
+                    "__misspelling__":["culicifacis"],
+                    "__species_group__": "culicifacis_sl"
+                },
+                "freeborni": {
+                    "__misspelling__": []
+                },
+                "funestus_sl": {
+                    "__misspelling__": ["funestus_s.l.", "funestus","funestus_complex"],
+                    "__species_group__": "funestus_sl"
+                },
+                "funestus_ss": {
+                    "__misspelling__": ["funestus_s.s."],
+                    "__species_group__": "funestus_sl"
+                },
+                "rivulorum": {
+                    "__misspelling__": [],
+                    "__species_group__": "funestus_sl"
+                },
+                "vandeeni": {
+                    "__misspelling__": [],
+                    "__species_group__": "funestus_sl"
+                },
+                "gambiae_sl": {
+                    "__misspelling__": ["gambiae_s.l.", "gambiae_complex", "gambiae"],
+                    "__species_group__": "gambiae_sl"
+                },
+                "gambiae_ss": {
+                    "__misspelling__": ["gambiae_s.s."],
+                    "__species_group__": "gambiae_sl"
+                },
+                "coluzzii": {
+                    "__misspelling__": ["gambiae_coluzzii"],
+                    "__species_group__": "gambiae_sl"
+                },
+                "arabiensis": {
+                    "__misspelling__": ["gambiae_arabiensis"],
+                    "__species_group__": "gambiae_sl"
+                },
+                "jamesii_sl":{
+                    "__misspelling__": ["jamesii"],
+                    "__species_group__": "jamesii_sl"
+                },
+                "jeyporiensis":{
+                    "__misspelling__": []
+                },
+                "karwari_sl":{
+                    "__misspelling__": ["karwari"],
+                    "__species_group__": "karwari_sl"
+                },
+                "kochi":{
+                    "__misspelling__":[]
+                },
+                "maculatus_sl":{
+                    "__misspelling__": ["maculatus"],
+                    "__species_group__": "maculatus_sl"
+                },
+                "maculipalpis": {
+                    "__misspelling__": []
+                },
+                "maculipennis": {
+                    "__misspelling__": []
+                },
+                "minimus_sl":{
+                    "__misspelling__": ["minimus"],
+                    "__species_group__": "minimus_sl"
+                },
+                "namibiensis": {
+                    "__misspelling__": ["nambiensis"]
+                },
+                "nigerrimus_sl":{
+                    "__misspelling__": ["nigerrimus"],
+                    "__species_group__": "nigerrimus_sl"
+                },
+                "nivipes":{
+                    "__misspelling__": []
+                },
+                "peditaeniatus_sl":{
+                    "__misspelling__": ["peditaeniatus"],
+                    "__species_group__": "peditaeniatus_sl"
+                },
+                "pharoensis": {
+                    "__misspelling__": []
+                },
+                "philippinensis":{
+                    "__misspelling__": []
+                },
+                "pretoriensis": {
+                    "__misspelling__": []
+                },
+                "pseudopunctipennis": {
+                    "__misspelling__": []
+                },
+                "punctipennis": {
+                    "__misspelling__": []
+                },
+                "quadrimaculatus": {
+                    "__misspelling__": []
+                },
+                "rufipes": {
+                    "__misspelling__": []
+                },
+                "squamosus": {
+                    "__misspelling__": ["sqaumosus"]
+                },
+                "stephensi":{
+                    "__misspelling__": []
+                },
+                "subpictus_sl":{
+                    "__misspelling__":["subpictus"],
+                    "__species_group__": "subpictus_sl"
+                },
+                "tenebrosus": {
+                    "__misspelling__": []
+                },
+                "tessellatus_sl": {
+                    "__misspelling__": ["tessellatus"],
+                    "__species_group__": "tessellatus_sl"
+                },
+                "umbrosus_sl":{
+                    "__misspelling__":["umbrosus"],
+                    "__species_group__": "umbrosus_sl"
+                },
+                "vagus_sl": {
+                    "__misspelling__": ["vagus"],
+                    "__species_group__":"vagus_sl"
+                },
+                "varuna_sl": {
+                    "__misspelling__": ["varuna"],
+                    "__species_group__": "varuna_sl"
+                },
+                "walkeri": {
+                    "__misspelling__": []
+                },
+                "ziemanni": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "coquillettidia": {
+            "__misspelling__": ["coquilletidia"],
+            "__species__": {
+                "perturbans": {
+                    "__misspelling__": ["pertubans"]
+                }
+            }
+        },
+        "culex": {
+            "__misspelling__": [],
+            "__species__": {
+                "antillummagnorum": {
+                    "__misspelling__": []
+                },
+                "bahamensis": {
+                    "__misspelling__": []
+                },
+                "coronator": {
+                    "__misspelling__": []
+                },
+                "erraticus": {
+                    "__misspelling__": []
+                },
+                "nigripalpus": {
+                    "__misspelling__": []
+                },
+                "pipiens": {
+                    "__misspelling__": []
+                },
+                "quinquefasciatus": {
+                    "__misspelling__": []
+                },
+                "restuans": {
+                    "__misspelling__": []
+                },
+                "salinarius": {
+                    "__misspelling__": ["salinariu"]
+                },
+                "tarsalis": {
+                    "__misspelling__": []
+                },
+                "territans": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "culiseta": {
+            "__misspelling__": [],
+            "__species__": {
+                "incidens": {
+                    "__misspelling__": []
+                },
+                "inornata": {
+                    "__misspelling__": []
+                },
+                "melanura": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "deinocerites": {
+            "__misspelling__": [],
+            "__species__": {
+                "cancer": {
+                    "__misspelling__": []
+                },
+                "cuba-1": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "mansonia": {
+            "__misspelling__": [],
+            "__species__": {
+                "titillans": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "orthopodomyia": {
+            "__misspelling__": [],
+            "__species__": {
+                "alba": {
+                    "__misspelling__": []
+                },
+                "signifera": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "psorophora": {
+            "__misspelling__": [],
+            "__species__": {
+                "ciliata": {
+                    "__misspelling__": []
+                },
+                "columbiae": {
+                    "__misspelling__": []
+                },
+                "cyanescens": {
+                    "__misspelling__": []
+                },
+                "discolor": {
+                    "__misspelling__": []
+                },
+                "ferox": {
+                    "__misspelling__": []
+                },
+                "horrida": {
+                    "__misspelling__": []
+                },
+                "howardii": {
+                    "__misspelling__": []
+                },
+                "pygmaea": {
+                    "__misspelling__": []
+                },
+                "signipennis": {
+                    "__misspelling__": []
+                }
+            }
+        },
+        "uranotaenia": {
+            "__misspelling__": [],
+            "__species__": {
+                "sapphirina": {
+                    "__misspelling__": []
+                }
+            }
+        }
+    }
+}

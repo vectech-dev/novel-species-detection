@@ -1,0 +1,11 @@
+
+{
+    "genus": {
+        "no_id": ["unknown", "?", "void", "(bad", "(control)", "(fungus)", "(strange", "(tube"],
+        "non_mosquito": ["acrolophus", "phthinia", "psychodidae", "exechia", "psychoda", "pscychoda", "pseudolycoriella", "gymnopternus", "megaselia"],
+        "culicidae": []
+    },
+    "species": {
+        "spp": ["spp.", "unknown", "", "species"]
+    }
+}
