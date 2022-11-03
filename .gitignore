@@ -1,0 +1,13 @@
+__pycache__/
+*/__pycache__/
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
+RF_feed_data/**
+*.pth
+model_weights/
+*.zip
+subm/**/*.csv
+.vscode
+tierI_output
+tierIII_output/
+subm

@@ -1,0 +1,1 @@
+{"n_neurons": 700, "hidden_layers": 5, "dropout": 0.6, "first_hidden": 1500, "lr": 0.001, "decay_steps": 691}

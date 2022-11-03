@@ -1,0 +1,1 @@
+{"rfor_clf__criterion": "entropy", "rfor_clf__max_depth": 15, "rfor_clf__max_features": "auto", "rfor_clf__n_estimators": 100}
